@@ -1,4 +1,4 @@
-
+![Cover](https://github.com/GideonAmhaG/GideonAmhaG/blob/main/carl-raw-m3hn2Kn5Bns-unsplash-min-min-compressed-min.jpg)
 
 # Hi there 👋
 
