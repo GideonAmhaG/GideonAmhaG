@@ -15,5 +15,5 @@ I'm a passionate game developer with a love for creating unique and engaging exp
 * [Rocket Mouse](https://github.com/GideonAmhaG/rocket_mouse)
 * [Cubethon](https://github.com/GideonAmhaG/cubethon)
 ## Contact
-* [email](gideonamha@gmail.com)
+* email: gideonamha@gmail.com
 * [Linkedin](https://www.linkedin.com/in/gideon-amha-g/)
