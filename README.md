@@ -1,16 +1,19 @@
-### Hi there 👋
 
-<!--
-**GideonAmhaG/GideonAmhaG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋
 
-Here are some ideas to get you started:
+I'm a passionate game developer with a love for creating unique and engaging experiences. I'm always looking for new challenges and ways to improve my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+* Game development (Unity, JavaScript)
+* Programming (C#, C, JavaScript, Python)
+* 3D art (Blender)
+* 2D art (Photoshop)
+* Game design
+
+## Projects
+* [Puppy Hero](https://games.puppyhero.geotechapps.com/)
+* [Rocket Mouse](https://github.com/GideonAmhaG/rocket_mouse)
+* [Cubethon](https://github.com/GideonAmhaG/cubethon)
+## Contact
+* [email](gideonamha@gmail.com)
+* [Linkedin](https://www.linkedin.com/in/gideon-amha-g/)
