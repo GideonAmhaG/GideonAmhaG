@@ -13,9 +13,10 @@ I'm a passionate front-end engineer and game developer with a love for creating 
 * Game design
 
 ## Projects
+* [Book Assignment View](https://github.com/GideonAmhaG/ElloChallenge)
 * [Puppy Hero](https://games.puppyhero.geotechapps.com/)
 * [Rocket Mouse](https://github.com/GideonAmhaG/rocket_mouse)
 * [Cubethon](https://github.com/GideonAmhaG/cubethon)
 ## Contact
-* email: gideonamha@gmail.com
+* Email: gideonamha@gmail.com
 * [Linkedin](https://www.linkedin.com/in/gideon-amha-g/)
