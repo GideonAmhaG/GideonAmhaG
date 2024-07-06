@@ -2,7 +2,7 @@
 
 # Hi there 👋
 
-I'm a passionate front-end and game developer with a love for creating unique and engaging experiences. I'm always looking for new challenges and ways to improve my skills.
+I'm a passionate front-end engineer and game developer with a love for creating unique and engaging experiences. I'm always looking for new challenges and ways to improve my skills.
 
 ## Skills
 * Game development (Unity, JavaScript)
