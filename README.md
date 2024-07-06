@@ -2,10 +2,11 @@
 
 # Hi there 👋
 
-I'm a passionate game developer with a love for creating unique and engaging experiences. I'm always looking for new challenges and ways to improve my skills.
+I'm a passionate front-end and game developer with a love for creating unique and engaging experiences. I'm always looking for new challenges and ways to improve my skills.
 
 ## Skills
 * Game development (Unity, JavaScript)
+* Front-end (React, Three.js)
 * Programming (C#, C, JavaScript, Python)
 * 3D art (Blender)
 * 2D art (Photoshop)
