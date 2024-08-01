@@ -18,7 +18,7 @@ I'm a passionate front-end engineer and game developer with a love for creating 
 * [School Dashboard](https://github.com/GideonAmhaG/school-dashboard)
 * [geotechapps](https://geotechapps.phaedrusstudios.com/)
 * [Airbnb - The Console](https://github.com/GideonAmhaG/AirBnB_clone_v4)
-* [Puppy Hero](https://games.puppyhero.geotechapps.com/)
+* [Puppy Hero](https://puppyhero.phaedrusstudios.com/)
 * [Rocket Mouse](https://github.com/GideonAmhaG/rocket_mouse)
 * [Cubethon](https://github.com/GideonAmhaG/cubethon)
 ## Contact
