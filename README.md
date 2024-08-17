@@ -14,7 +14,7 @@ I'm a passionate front-end engineer and game developer with a love for creating 
 
 ## Projects
 * [3D Portfolio Website](https://github.com/GideonAmhaG/my_portfolio)
-* [Book Assignment View](https://github.com/GideonAmhaG/ElloChallenge)
+* [Book Assignment View](https://github.com/GideonAmhaG/Book_Assignment_View)
 * [School Dashboard](https://github.com/GideonAmhaG/school-dashboard)
 * [geotechapps](https://geotechapps.phaedrusstudios.com/)
 * [Airbnb - The Console](https://github.com/GideonAmhaG/AirBnB_clone_v4)
