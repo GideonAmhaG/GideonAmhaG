@@ -13,6 +13,7 @@ I'm a passionate full-stack engineer and game developer with a love for creating
 
 ## Projects
 
+* [MERN Estate](https://github.com/GideonAmhaG/MERN-estate)
 * [3D Portfolio Website](https://github.com/GideonAmhaG/my_portfolio)
 * [Book Assignment View](https://github.com/GideonAmhaG/Book_Assignment_View)
 * [School Dashboard](https://github.com/GideonAmhaG/school-dashboard)
