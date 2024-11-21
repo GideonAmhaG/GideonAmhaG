@@ -7,15 +7,19 @@ I'm a passionate full-stack engineer and game developer with a love for creating
 ## Skills
 
 * **Front-end Development:** React, Redux, Jest, Three.js, PixiJS
-* **Back-end Development:** Node.js, Express.js, GraphQL, MongoDB (MERN Stack)
+* **Back-end Development:** Node.js, Express.js, GraphQL, MongoDB, PostgreSQL, MySQL
 * **Game Development:** Unity, JavaScript
 * **Programming Languages:** JavaScript, TypeScript, Python, C#, C
 
 ## Projects
 
+* [Yegna Blog](https://github.com/GideonAmhaG/yegna-blog)
 * [MERN Estate](https://github.com/GideonAmhaG/MERN-estate)
 * [Product Store](https://github.com/GideonAmhaG/product_store)
 * [3D Portfolio Website](https://github.com/GideonAmhaG/my_portfolio)
+* [Transaction Webhook](https://github.com/GideonAmhaG/transaction-webhook)
+* [Flutter Blog](https://github.com/GideonAmhaG/flutter_blog)
+* [Food Map](https://github.com/GideonAmhaG/food-map)  
 * [Book Assignment View](https://github.com/GideonAmhaG/Book_Assignment_View)
 * [School Dashboard](https://github.com/GideonAmhaG/school-dashboard)
 * [geotechapps](https://geotechapps.phaedrusstudios.com/)
