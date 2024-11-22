@@ -47,7 +47,7 @@ Outside of development, I’m passionate about exploring new technologies, mento
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GideonAmhaG&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GideonAmhaG&layout=compact&theme=radical)  
 ![GitHub Streak](https://streak-stats.demolab.com?user=GideonAmhaG&theme=radical)
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=GideonAmhaG.GideonAmhaG)
+![Profile views](https://badges.pufler.dev/visits/GideonAmhaG/GideonAmhaG)
 
 ---
 
