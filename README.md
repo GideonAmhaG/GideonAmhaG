@@ -53,7 +53,7 @@ Outside of development, I’m passionate about exploring new technologies, mento
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GideonAmhaG&label=Profile%20views&color=0e75b6&style=flat" alt="GideonAmhaG" /> </p>
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=GideonAmhaG&theme=onedark&margin-w=16" alt="GitHub Trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=GideonAmhaG&theme=onedark&margin-w=8&margin-t=8&margin-b=8&no-frame=true" alt="GitHub Trophies"/>
 </p>
 
 ---
