@@ -66,7 +66,7 @@ Outside of development, I’m passionate about exploring new technologies, mento
 | [**MERN Estate**](https://github.com/GideonAmhaG/MERN-estate) | Real estate platform built with the MERN stack. |
 | [**3D Portfolio**](https://github.com/GideonAmhaG/my_portfolio) | Interactive portfolio built with Three.js. |
 | [**Puppy Hero**](https://puppyhero.phaedrusstudios.com/) | A 2D JavaScript-based game. |
-| [**Food Map**](https://github.com/GideonAmhaG/food-map) | Global map app for visualizing food security indicators. |
+| [**Transaction Webhook**](https://github.com/GideonAmhaG/transaction-webhook) | Secure webhook for processing transaction notifications. |
 
 Explore more projects in my [repositories](https://github.com/GideonAmhaG?tab=repositories).
 
