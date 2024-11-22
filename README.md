@@ -52,7 +52,7 @@ Outside of development, I’m passionate about exploring new technologies, mento
 
 ![Profile views](https://badges.pufler.dev/visits/GideonAmhaG/GideonAmhaG)
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=GideonAmhaG.GideonAmhaG)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=GideonAmhaG&theme=onedark)
 
 ---
 
