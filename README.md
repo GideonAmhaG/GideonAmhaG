@@ -2,84 +2,59 @@
 
 # Hi there 👋
 
-I'm a passionate full-stack engineer and game developer with a love for creating unique and engaging experiences. I'm always looking for new challenges and ways to improve my skills.
+I'm Gideon Amha, a **full-stack engineer** and **game developer** passionate about building engaging digital experiences and immersive games. I strive to craft solutions that are innovative, efficient, and user-focused.
 
 ---
 
-## 🚀 About Me
+## 🚀 Skills & Technologies
 
-- 💻 Full-stack developer skilled in creating dynamic, user-focused applications.
-- 🎮 Game developer with a knack for crafting immersive gameplay experiences.
-- 🌍 Founder of [Phaedrus Studios](https://portfolio.phaedrusstudios.com/).
-- 🎓 Lecturer in Civil Engineering with a solid academic foundation.
+**Languages**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
----
+**Frontend**  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white) 
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 
-## 🛠️ Skills
+**Backend**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) 
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Front-end Development
-- **Frameworks & Libraries:** React, Redux, Three.js, PixiJS
-- **Testing Tools:** Jest, Cypress
-
-### Back-end Development
-- **Technologies:** Node.js, Express.js, GraphQL
-- **Databases:** MongoDB, PostgreSQL, MySQL
-
-### Game Development
-- **Engines:** Unity
-- **Languages:** JavaScript, C#
-
-### Programming Languages
-- JavaScript, TypeScript, Python, C#, C
+**Game Development**  
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
 ---
 
-## 🌟 GitHub Stats
+## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GideonAmhaG&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GideonAmhaG&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GideonAmhaG&layout=compact&theme=radical)
 
 ---
 
-## 🏆 Achievements
+## 🌟 Featured Projects
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=GideonAmhaG&theme=onedark)
+| Project | Description |
+|---------|-------------|
+| [**Yegna Blog**](https://github.com/GideonAmhaG/yegna-blog) | Blog platform showcasing editorial content. |
+| [**MERN Estate**](https://github.com/GideonAmhaG/MERN-estate) | Real estate platform built with the MERN stack. |
+| [**3D Portfolio**](https://github.com/GideonAmhaG/my_portfolio) | Interactive portfolio built with Three.js. |
+| [**Puppy Hero**](https://puppyhero.phaedrusstudios.com/) | A 2D Unity-based game. |
+| [**Food Map**](https://github.com/GideonAmhaG/food-map) | Map app to locate nearby food options. |
 
----
-
-## 🔥 Contribution Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=GideonAmhaG&theme=highcontrast)
-
----
-
-## 📂 Featured Projects
-
-- [**Yegna Blog**](https://github.com/GideonAmhaG/yegna-blog)  
-  A blog platform showcasing editorial content.
-
-- [**MERN Estate**](https://github.com/GideonAmhaG/MERN-estate)  
-  Real estate management platform using the MERN stack.
-
-- [**3D Portfolio Website**](https://github.com/GideonAmhaG/my_portfolio)  
-  Interactive 3D portfolio built with Three.js.
-
-- [**Puppy Hero**](https://puppyhero.phaedrusstudios.com/)  
-  A 2D game made with Unity.
-
-- [**Food Map**](https://github.com/GideonAmhaG/food-map)  
-  A map app that highlights food options around you.
-
-Explore more projects in my [GitHub Repositories](https://github.com/GideonAmhaG?tab=repositories).
+More projects in my [repositories](https://github.com/GideonAmhaG?tab=repositories).
 
 ---
 
-## 💬 Connect with Me
+## 🌐 Connect with Me
 
-- 🌐 [Portfolio Website](https://portfolio.phaedrusstudios.com/)
-- ✉️ [Email Me](mailto:your-email@example.com)
-- 🐦 [Twitter](https://twitter.com/your-twitter-handle)  
-- 📖 [LinkedIn](https://linkedin.com/in/your-linkedin-handle)
+[![Portfolio](https://img.shields.io/badge/Portfolio-3E7C17?style=for-the-badge&logo=website&logoColor=white)](https://portfolio.phaedrusstudios.com/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-handle)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 ---
 
