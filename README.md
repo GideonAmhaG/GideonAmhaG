@@ -47,6 +47,7 @@ Outside of development, I’m passionate about exploring new technologies, mento
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GideonAmhaG&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GideonAmhaG&layout=compact&theme=radical)  
 ![GitHub Streak](https://streak-stats.demolab.com?user=GideonAmhaG&theme=radical&hide_border=true)
+![Profile views](https://komarev.com/ghpvc/?username=GideonAmhaG&color=blue&style=flat)
 
 ---
 
