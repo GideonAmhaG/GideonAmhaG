@@ -2,37 +2,36 @@
 
 # Hi there 👋
 
-I'm Gideon Amha, a **full-stack engineer** and **game developer** passionate about building engaging digital experiences and immersive games. I strive to craft solutions that are innovative, efficient, and user-focused.
+I'm **Gideon Amha**, a **full-stack engineer** and **game developer** passionate about crafting innovative, engaging solutions in web and game development. Whether it's a scalable web app or a 3D interactive portfolio, I thrive on solving complex problems and bringing ideas to life.
 
 ---
 
 ## 🚀 Skills & Technologies
 
-**Languages**  
+### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-**Frontend**  
+### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white) 
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white) 
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-**Backend**  
+### Backend & Databases
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) 
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) 
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) 
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-**Game Development**  
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GideonAmhaG&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GideonAmhaG&layout=compact&theme=radical)
+### Game Development
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white) 
+![PixiJS](https://img.shields.io/badge/PixiJS-FF4D00?style=for-the-badge&logo=pixijs&logoColor=white)
 
 ---
 
@@ -46,7 +45,23 @@ I'm Gideon Amha, a **full-stack engineer** and **game developer** passionate abo
 | [**Puppy Hero**](https://puppyhero.phaedrusstudios.com/) | A 2D Unity-based game. |
 | [**Food Map**](https://github.com/GideonAmhaG/food-map) | Map app to locate nearby food options. |
 
-More projects in my [repositories](https://github.com/GideonAmhaG?tab=repositories).
+Explore more projects in my [repositories](https://github.com/GideonAmhaG?tab=repositories).
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GideonAmhaG&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GideonAmhaG&layout=compact&theme=radical)
+
+---
+
+## 🏆 Achievements
+
+- Built a **3D interactive portfolio** using **Three.js**.
+- Developed a **real estate platform** with a seamless user experience using the **MERN stack**.
+- Created multiple **2D Unity games**, including **Puppy Hero** and **Rocket Mouse**.
+- Designed scalable backend solutions for **webhooks** and **blog platforms**.
 
 ---
 
