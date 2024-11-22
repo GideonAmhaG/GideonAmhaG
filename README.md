@@ -50,7 +50,7 @@ Outside of development, I’m passionate about exploring new technologies, mento
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GideonAmhaG&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=GideonAmhaG&label=Profile%20views&color=0e75b6&style=flat" alt="GideonAmhaG" /> </p>
+![Profile views](https://visitcount.itsvg.in/api?id=GideonAmhaG&icon=0&color=0)
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=GideonAmhaG&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
