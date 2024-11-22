@@ -44,15 +44,15 @@ Outside of development, I’m passionate about exploring new technologies, mento
 
 ## 📈 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=GideonAmhaG&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GideonAmhaG&theme=dark&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GideonAmhaG&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GideonAmhaG&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GideonAmhaG&show_icons=true&theme=radical&show_total=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GideonAmhaG&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=GideonAmhaG.GideonAmhaG)
+![Profile views](https://visitcount.itsvg.in/api?id=GideonAmhaG&icon=0&color=0)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=GideonAmhaG&theme=onedark)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=GideonAmhaG&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
