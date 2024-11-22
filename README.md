@@ -18,7 +18,7 @@ I'm **Gideon Amha**, a **full-stack engineer** and **game developer** passionate
 ### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white) 
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white) 
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### Backend & Databases
@@ -27,10 +27,12 @@ I'm **Gideon Amha**, a **full-stack engineer** and **game developer** passionate
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### Game Development
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 ![PixiJS](https://img.shields.io/badge/PixiJS-FF4D00?style=for-the-badge&logo=pixijs&logoColor=white)
 
 ---
@@ -52,16 +54,8 @@ Explore more projects in my [repositories](https://github.com/GideonAmhaG?tab=re
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GideonAmhaG&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GideonAmhaG&layout=compact&theme=radical)
-
----
-
-## 🏆 Achievements
-
-- Built a **3D interactive portfolio** using **Three.js**.
-- Developed a **real estate platform** with a seamless user experience using the **MERN stack**.
-- Created multiple **2D Unity games**, including **Puppy Hero** and **Rocket Mouse**.
-- Designed scalable backend solutions for **webhooks** and **blog platforms**.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GideonAmhaG&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=GideonAmhaG&theme=radical&hide_border=true)
 
 ---
 
