@@ -59,7 +59,7 @@ Outside of development, I’m passionate about exploring new technologies, mento
 | [**Puppy Hero**](https://puppyhero.phaedrusstudios.com/) | A 2D JavaScript-based game. |
 | [**Transaction Webhook**](https://github.com/GideonAmhaG/transaction-webhook) | Secure webhook for processing transaction notifications. |
 
-Explore more projects in my [repositories](https://github.com/GideonAmhaG?tab=repositories).
+Explore more projects in my [repositories](https://github.com/GideonAmhaG/portfolio).
 
 ---
 
