@@ -55,9 +55,10 @@ Outside of development, I’m passionate about exploring new technologies, mento
 |---------|-------------|
 | [**Yegna Blog**](https://github.com/GideonAmhaG/yegna-blog) | Blog platform showcasing editorial content. |
 | [**MERN Estate**](https://github.com/GideonAmhaG/MERN-estate) | Real estate platform built with the MERN stack. |
+| [**Yegnaface**](https://github.com/GideonAmhaG/yegna-face) | Social media platform for Ethiopians. |
 | [**3D Portfolio**](https://github.com/GideonAmhaG/my_portfolio) | Interactive portfolio built with Three.js. |
 | [**Puppy Hero**](https://puppyhero.phaedrusstudios.com/) | A 2D JavaScript-based game. |
-| [**Transaction Webhook**](https://github.com/GideonAmhaG/transaction-webhook) | Secure webhook for processing transaction notifications. |
+
 
 Explore more projects in my [repositories](https://github.com/GideonAmhaG/portfolio).
 
