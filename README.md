@@ -2,7 +2,7 @@
 
 # Hi there 👋
 
-I'm **Gideon Amha**, a **full-stack engineer** and **game developer** who thrives on solving complex problems and creating meaningful digital experiences. With expertise in web development, 3D visualization, and game development, I bring ideas to life using modern tools and technologies. My work spans crafting scalable web apps, designing intuitive user interfaces, and developing interactive games.
+I'm **Gideon Amha**, a **software engineer** and **game developer** who thrives on solving complex problems and creating meaningful digital experiences. With expertise in web development, game development, and civil engineering software development, I bring ideas to life using modern tools and technologies. My work spans crafting scalable web apps, designing intuitive user interfaces, and developing interactive games.
 
 Outside of development, I’m passionate about exploring new technologies, mentoring, and staying curious. Let’s create something extraordinary together!
 
